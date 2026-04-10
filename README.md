@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 * Full-Stack Web & Mobile App Developer (MERN Stack)<br>* Skilled in React.js, Next.js, Node.js & Express.js<br>* Cross-platform Mobile App Developer (React Native)<br>* AI Enthusiast & Innovation-Driven Developer<br>* Building Scalable & High-Performance Tech Solutions<br>
 
 
